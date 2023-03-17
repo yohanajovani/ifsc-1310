@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+}
+.header {
+    text-align: center;
+}
+/* 
+table {
+    width: 100%;
+} */
+
+p#yohana {
+    color: blue;
+
+}
+
+.jupiter h3 {
+    color: blue;
+    background-color: aquamarine;
+}
