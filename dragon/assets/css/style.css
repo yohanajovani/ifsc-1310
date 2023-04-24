@@ -3,12 +3,12 @@ header {
 }
 
 header.primary h2 {
-    color: red;
+    color: firebrick;
 }
 
 
 header.primary h1 a {
-    color: red;
+    color: firebrick;
     text-decoration: none;
 }
 
@@ -258,7 +258,7 @@ section#articles h2 {
 
 /* Attribute Selector */
 aside[role="complementary"] {
-  background-color: #181c1f;
+  background-color: #33536b;
   color: #ffffff;
   padding: 2.5em;
 }
@@ -302,6 +302,13 @@ aside article a:active {
 aside article footer {
   display: none;
 }
+
+.overview {
+  padding-top: 40px;
+  color: ghostwhite;
+}
+<h2> {
+  align-content: center;
 
 
 /*------ Footer ------*/
@@ -356,4 +363,8 @@ footer#colophon {
   #articles article.post {
     width: 100%;
     margin-bottom: 2em;
+}
+.background{
+  padding-top: 40px;
+  color: blue;
 }
