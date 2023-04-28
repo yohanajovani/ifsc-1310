@@ -1,0 +1,36 @@
+<!doctype html>
+<!--course homepage-->
+<html lang="en">
+
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>IFSC 1310 |DRAGON PROJECT REVISION AND REFLECTION ASSIGNMENT</title>
+   <meta name="description" content="Keyword Rich Description">
+   <meta name="author" content="Yohana jovani">
+   <link rel="stylesheet" href="reflection1">
+</head>
+
+<body>
+   <main>
+    <h2>DRAGON PROJECT REVISION AND REFLECTION ASSIGNMENT</h2>
+
+        <p>The thing that i did well on the project was targeting the element, 
+            i use the flexbox in order to position them as well as styling the page and  creativity . To design a webpage for space x Dragon, what I would do differently if I were to start over, the website should be easy to navigate and provide visitors with clear and concise information about the dragon spacecraft and its missions.
+          Some key elements that a web designer could include on a web page for spaceX dragon include:
+        High-quality image of the spacecraft and its missions.
+        Detailed description of the spacecraft’s specification and capabilities 
+        Another thing I would do is consider incorporating more advanced technologies or features to make the website more engaging and informative. 
+        Overall , the goal of designing a webpage for spacex Dragon is how much we learn about to create web design and apply what we learn on those. 
+        The feedback i get from my peers was good and needed to be fix some stuffs like aligning the text, 
+        add back -to-top scrolling  as well as the height the width of the image has to be same size which i did and i  didn’t notice but it was a good feedback </p>
+        
+         
+         <h6>
+          &copy; 2023 Yohana Jovani <a href="#top">Back to top</a>
+         </h6>
+         </div> -->
+</body>
+
+</html>
